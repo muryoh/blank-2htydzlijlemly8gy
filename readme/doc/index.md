@@ -1,4 +1,4 @@
-# Starter Blank foo foo
+# Starter Blank foo foo2
 
 This starter-kit is for advanced user that are already
 familiar with [Backlight](https://backlight.dev).
