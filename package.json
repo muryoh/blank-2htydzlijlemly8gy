@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/anotherorg.blank-2htydzlijlemly8gy",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 36ddtN0zpFBbiI1AFpRh --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
